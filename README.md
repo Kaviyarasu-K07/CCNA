@@ -22,6 +22,15 @@ Below is the log of daily test files uploaded to this repository:
   * Explanations of AUTO MDIX, POE Injectors, and POE switches[cite: 1]
   * Network Interface Card (NIC) types and functions, including how it converts binary signals to electrical or radio frequency signals and vice versa[cite: 1]
 
+### Day 3: 5-Bit Binary Combination
+
+* **File:** `Day-3-  5bit Binary combination.pdf`
+
+* **Topics Covered:**
+* 5-bit binary combinations
+
+
+* Sequential binary counting using the place values 16, 8, 4, 2, and 1
 ---
 
 ## 🎯 Purpose
