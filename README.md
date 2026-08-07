@@ -25,13 +25,16 @@ Below is the log of daily test files uploaded to this repository:
 ### Day 3: 5-Bit Binary Combination
 
 * **File:** `Day-3-  5bit Binary combination.pdf`
-
 * **Topics Covered:**
 * 5-bit binary combinations
-
-
 * Sequential binary counting using the place values 16, 8, 4, 2, and 1
----
+
+### Day 4: IP Parameters
+
+* **File:** `Day-4-IP Parameters.pdf`
+* **Topics Covered:**
+* Calculating IP parameters for various given IP addresses
+* Finding the Network ID, First IP, Last IP, Broadcast IP, Prefix length, and Subnetmask
 
 ## 🎯 Purpose
 The goal of this repository is to maintain a consistent, organized record of my networking fundamentals, daily assessments, and physical connection testing. 
