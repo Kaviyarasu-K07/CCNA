@@ -13,16 +13,16 @@ A record of my progress through CCNA practice quizzes, tracking scores across th
 ## 📝 Details
 
 ### CCNA First-Class — 22/22
-![CCNA First Class - Response](images/CCNA_First_Class_p1.png)
-![CCNA First Class - Score](images/CCNA_First_Class_p2.png)
+![CCNA First Class - Response]
+![CCNA First Class - Score]
 
 ### CCNA 2nd Class — 9/10
-![CCNA 2nd Class - Response](images/CCNA_2nd_Class_p1.png)
-![CCNA 2nd Class - Score](images/CCNA_2nd_Class_p2.png)
+![CCNA 2nd Class - Response]
+![CCNA 2nd Class - Score]
 
 ### CCNA 3rd Test — 72/72
-![CCNA 3rd Test - Response](images/CCNA_3rd_Test_p1.png)
-![CCNA 3rd Test - Score](images/CCNA_3rd_Test_p2.png)
+![CCNA 3rd Test - Response]
+![CCNA 3rd Test - Score]
 
 ---
 
