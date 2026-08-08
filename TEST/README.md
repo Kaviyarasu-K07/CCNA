@@ -39,4 +39,4 @@ Below is the log of daily test files uploaded to this repository:
 ## 🎯 Purpose
 The goal of this repository is to maintain a consistent, organized record of my networking fundamentals, daily assessments, and physical connection testing. 
 
-*Author: Kaviyarasu K.*
+*Author: Kaviyarasu K*
