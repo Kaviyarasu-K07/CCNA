@@ -15,7 +15,7 @@ Below is the log of daily test files uploaded to this repository:
   * Hexa to Binary Conversion[cite: 2]
 
 ### Day 2: Physical Network Connection
-* **File:** `Day-2-How to form a physical network connection.pdf`[cite: 1]
+* **File:** `Day-2-How to form a physical network connect.pdf`[cite: 1]
 * **Topics Covered:** 
   * The three types of networking mediums: Radio frequency (wireless), Electrical signal (copper cable), and Light signal (fiber optic cable)[cite: 1]
   * Switch 8-pins and connecting UTP cables between two devices[cite: 1]
