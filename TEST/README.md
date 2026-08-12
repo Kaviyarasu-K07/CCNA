@@ -36,6 +36,15 @@ Below is the log of daily test files uploaded to this repository:
 * Calculating IP parameters for various given IP addresses
 * Finding the Network ID, First IP, Last IP, Broadcast IP, Prefix length, and Subnetmask
 
+### Day 5: Packet Flow
+
+* **File:** `Packet Flow test.pdf`
+* **Topics Covered:**
+* CCNA Packet Flow fundamentals
+* Documenting a packet flow between two devices (e.g., from IP `150.0.0.10` to `150.0.0.20`)
+* Mapping out ARP Requests (ARP REQ) and ARP Replies (ARP REP), including Sender and Target IPs and MAC addresses
+* Tracking ECHO requests and replies using Source/Destination IPs (SIP/DIP) and MAC addresses (SMAC/DMAC)
+
 ## 🎯 Purpose
 The goal of this repository is to maintain a consistent, organized record of my networking fundamentals, daily assessments, and physical connection testing. 
 
