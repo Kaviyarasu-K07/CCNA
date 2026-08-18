@@ -60,6 +60,14 @@ Below is the log of daily test files uploaded to this repository:
    * **Switch Behavior:** Address learning, MAC address table maintenance (port mapping), and switching between unicast and broadcast traffic.
    * **Router Behavior:** Breaking broadcast domains, routing table structure (Network ID, Prefix, Interface), and industry-standard IP configuration practices.
 
+### Day 8: Route Table
+ * **File:** Day 8- Route Table test_.pdf
+ * **Topics Covered:**
+   * **Routing Table Fundamentals:** Mapping out local network routes and host loopback routes for various IP host addresses.
+   * **Network Routes:** Identifying Network ID, Netmask, and Gateway assignments for active interfaces.
+   * **Loopback Entries:** Mapping host IP addresses with a 255.255.255.255 netmask pointing to the local loopback gateway 127.0.0.1.
+
+
 ## 🎯 Purpose
 The goal of this repository is to maintain a consistent, organized record of my networking fundamentals, daily assessments, and physical connection testing. 
 
